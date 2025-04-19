@@ -4,4 +4,4 @@
   "editor.codeActionsOnSave": ["source.fixAll.eslint"],
   "eslint.validate": ["javascript", "typescript"],
   "typescript.tsdk": "node_modules/typescript/lib"
-}
+}"secretKey": "JUMENTO"
